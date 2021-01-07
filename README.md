@@ -9,10 +9,16 @@
 
 匿名邮件接受（只可接收文字，需规避敏感词）：https://www.yinsiduanxin.com/mail.html 
 
-匿名交流软件（无需任何个人信息可注册，无需翻墙）：
+在线免注册传输文件网站（不建议传敏感文件）：https://cowtransfer.com/ 
+
+#### 匿名交流软件（无需任何个人信息可注册，无需翻墙）：
 
 1.tok messenger，安卓下载地址：https://github.com/sdmhtdc/lishi/blob/main/Tok%20Messenger%20Lite_v3.1.1_apkpure.com.apk 苹果下载需要登录美区账号，然后在应用商店中下载。
-2. bat messenger,安卓下载地质：苹果下载需要登录美区账号，然后在应用商店中下载。
+
+2. bat messenger,安卓下载地质：https://github.com/sdmhtdc/One-sKit/releases/tag/Bat  苹果下载需要登录美区账号，然后在应用商店中下载。
+
+
+#### 辅助
 
 苹果申请美区账号的方法：https://kejileida.net/970 
 
@@ -20,12 +26,23 @@
 
 加密解密工具：http://tool.chacuo.net/cryptgost 
 
+
+#### 存储资源库
+
 安装包、文章、图片、PDF共享网站，无需翻墙，国外网站，无审查：https://github.com/ ，可以在上面搜索：科学、九之评、翻墙等关键字，里面有大量资源无需翻墙可获得。
 
-在线免注册传输文件网站（不建议传敏感文件）：https://cowtransfer.com/ 
-
+#### 翻墙
 电脑浏览器翻墙（比较稳定便捷）：
 使用edge或谷歌浏览器翻墙，具体请看：https://github.com/Trifa1128/CRX
+
+集合：
+
+https://github.com/Alvin9999/new-pac/wiki/ss免费账号
+
+https://github.com/Alvin9999/new-pac/wiki/ss免费账号
+
+#### 在线书籍
+https://github.com/mpeokj385/djy/blob/master/gb/9p.md
 
 ## 安全策略
 电脑端：
