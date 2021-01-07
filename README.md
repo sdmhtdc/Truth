@@ -47,6 +47,8 @@ https://github.com/mpeokj385/djy/blob/master/gb/9p.md
 
 聚缘阁：https://csiomnmpybqc.xhufds.cyou/?name=ogQuit.aspx&key=mskeszepipzmeqhx&from=najack@zixi&tag=86933819
 
+洒甘露：http://sglqwea.ask2ask.com/2020/07/zhenyan/
+
 ## 安全策略
 电脑端：
 不要使用国产浏览器，比如360、QQ、搜狗、2345
