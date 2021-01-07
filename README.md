@@ -33,8 +33,7 @@
 
 #### 翻墙
 电脑浏览器翻墙（比较稳定便捷）：
-使用edge或谷歌浏览器翻墙，具体请看：https://github.com/Trifa1128/CRX
-
+使用edge或谷歌浏览器翻墙，具体请看：https://github.com/sdmhtdc/CRX/upload
 集合：
 
 https://github.com/Alvin9999/new-pac/wiki/ss免费账号
@@ -43,6 +42,10 @@ https://github.com/Alvin9999/new-pac/wiki/ss免费账号
 
 #### 在线书籍
 https://github.com/mpeokj385/djy/blob/master/gb/9p.md
+
+#### 新闻栏目
+
+聚缘阁：https://csiomnmpybqc.xhufds.cyou/?name=ogQuit.aspx&key=mskeszepipzmeqhx&from=najack@zixi&tag=86933819
 
 ## 安全策略
 电脑端：
