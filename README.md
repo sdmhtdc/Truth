@@ -41,10 +41,14 @@ https://github.com/Alvin9999/new-pac/wiki/ss免费账号
 
 https://github.com/fanqiangla/1
 
+https://github.com/xxk2017/9 （试用于对清醒度较高的对象）
+
 #### 在线书籍
 https://github.com/mpeokj385/djy/blob/master/gb/9p.md
 
 #### 新闻栏目
+
+综合：https://github.com/gfw-breaker/banned-news3/blob/master/README.md
 
 聚缘阁：https://csiomnmpybqc.xhufds.cyou/?name=ogQuit.aspx&key=mskeszepipzmeqhx&from=najack@zixi&tag=86933819
 
