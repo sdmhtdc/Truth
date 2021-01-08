@@ -34,11 +34,12 @@
 #### 翻墙
 电脑浏览器翻墙（比较稳定便捷）：
 使用edge或谷歌浏览器翻墙，具体请看：https://github.com/sdmhtdc/CRX/upload
+
 集合：
 
 https://github.com/Alvin9999/new-pac/wiki/ss免费账号
 
-https://github.com/Alvin9999/new-pac/wiki/ss免费账号
+https://github.com/fanqiangla/1
 
 #### 在线书籍
 https://github.com/mpeokj385/djy/blob/master/gb/9p.md
@@ -51,15 +52,17 @@ https://github.com/mpeokj385/djy/blob/master/gb/9p.md
 
 ## 安全策略
 电脑端：
-不要使用国产浏览器，比如360、QQ、搜狗、2345
+不要使用国产浏览器，比如360、QQ、搜狗、2345、遨游
 
 请使用正规浏览器，比如：edge、谷歌（chrome）、火狐、safari四大主流浏览器
 
+不要使用国产输入法：搜狗输入法、百度输入法等
+
 请卸载国产杀毒软件，比如：360、金山卫士、金山毒霸、QQ安全管家
 
-打开重要网站时，请用无痕浏览模式
+打开重要网站时，请用无痕浏览模式，主流浏览器中都有该模式
 
-请升级win10，下载：
+请升级win10，win10自带杀毒防火墙和输入法，无需安装杀毒软件，下载：
 
 ed2k://|file|cn_windows_10_business_editions_version_2004_updated_aug_2020_x64_dvd_4077da77.iso|5275471872|DE5F8B777F1B5258EF93E7C9990F2715|/
 
