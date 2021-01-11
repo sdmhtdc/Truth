@@ -31,6 +31,8 @@
 
 安装包、文章、图片、PDF共享网站，无需翻墙，国外网站，无审查：https://github.com/ ，可以在上面搜索：科学、九之评、翻墙等关键字，里面有大量资源无需翻墙可获得。
 
+天机破迷（包含很多文章）：https://www.mywuji.top/d/94db436521614c86a44b/?p=%2F&mode=list
+
 #### 翻墙
 电脑浏览器翻墙（比较稳定便捷）：
 使用edge或谷歌浏览器翻墙，具体请看：https://github.com/sdmhtdc/CRX/upload
