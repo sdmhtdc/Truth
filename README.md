@@ -31,7 +31,7 @@
 
 安装包、文章、图片、PDF共享网站，无需翻墙，国外网站，无审查：https://github.com/ ，可以在上面搜索：科学、九之评、翻墙等关键字，里面有大量资源无需翻墙可获得。
 
-天机破迷（包含很多文章）：https://www.mywuji.top/d/94db436521614c86a44b/?p=%2F&mode=list
+天机破迷（包含很多文章，谨慎使用，适用于清醒度较高，对玄学佛学了解较多较感兴趣，但最好不要一次将所有文章都给到对方）：https://www.mywuji.top/d/94db436521614c86a44b/?p=%2F&mode=list
 
 #### 翻墙
 电脑浏览器翻墙（比较稳定便捷）：
@@ -39,22 +39,26 @@
 
 集合：
 
-https://github.com/Alvin9999/new-pac/wiki/ss免费账号
+（纯粹翻墙无资讯）https://github.com/Alvin9999/new-pac/wiki/ss免费账号 
 
-https://github.com/fanqiangla/1
+（有资讯）https://github.com/fanqiangla/1
 
 https://github.com/xxk2017/9 （试用于对清醒度较高的对象）
 
-#### 在线书籍
-https://github.com/mpeokj385/djy/blob/master/gb/9p.md
+#### 在线书籍（免翻墙）
+https://github.com/mpeokj385/djy/blob/master/gb/9p.md 
+包括：9p、解体、魔鬼统治世界、共义目的
 
-#### 新闻栏目
+#### 新闻栏目（免翻墙）
 
-综合：https://github.com/gfw-breaker/banned-news3/blob/master/README.md
+综合（适用于爱看新闻清醒度一般的人）：https://github.com/gfw-breaker/banned-news3/blob/master/README.md
 
-聚缘阁：https://csiomnmpybqc.xhufds.cyou/?name=ogQuit.aspx&key=mskeszepipzmeqhx&from=najack@zixi&tag=86933819
+聚缘阁（适用于爱看新闻清醒度一般的人）：https://csiomnmpybqc.xhufds.cyou/?name=ogQuit.aspx&key=mskeszepipzmeqhx&from=najack@zixi&tag=86933819
 
-洒甘露：http://sglqwea.ask2ask.com/2020/07/zhenyan/
+洒甘露（适用于很清醒的人）：http://sglqwea.ask2ask.com/2020/07/zhenyan/
+
+#### 新闻栏目（需翻墙）
+明见神话（适用于对神认可度较高的人）：http://www.minrefer.com/?language=chisimple 
 
 ## 安全策略
 电脑端：
@@ -72,5 +76,5 @@ https://github.com/mpeokj385/djy/blob/master/gb/9p.md
 
 ed2k://|file|cn_windows_10_business_editions_version_2004_updated_aug_2020_x64_dvd_4077da77.iso|5275471872|DE5F8B777F1B5258EF93E7C9990F2715|/
 
-下载后直接点击升级，然后KMS正版化。
+下载后直接点击升级，然后KMS正版化，KMS下载地址：。
 
